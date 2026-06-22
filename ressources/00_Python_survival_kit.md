@@ -399,13 +399,13 @@ print(chemin)               # data/file.txt (ou data\file.txt sur Windows)
 
 ## Vérification (checklist apprenant)
 
-- [ ] J'ai lancé `survie.py` et obtenu la sortie attendue.
-- [ ] J'ai fait les 10 micro-exercices, et je comprends chaque solution.
-- [ ] Je sais expliquer la différence entre `30` et `"30"`.
-- [ ] Je sais écrire une fonction avec paramètres et `return`.
-- [ ] Je sais différencier une liste (`[...]`) d'un dictionnaire (`{...}`).
-- [ ] Je sais lire une traceback du bas vers le haut et identifier la ligne
+- [x] J'ai lancé `survie.py` et obtenu la sortie attendue.
+- [x] J'ai fait les 10 micro-exercices, et je comprends chaque solution.
+- [x] Je sais expliquer la différence entre `30` et `"30"`.
+- [x] Je sais écrire une fonction avec paramètres et `return`.
+- [x] Je sais différencier une liste (`[...]`) d'un dictionnaire (`{...}`).
+- [x] Je sais lire une traceback du bas vers le haut et identifier la ligne
       fautive.
-- [ ] Je connais les 4 erreurs courantes (`NameError`, `TypeError`,
+- [x] Je connais les 4 erreurs courantes (`NameError`, `TypeError`,
       `IndexError`, `KeyError`).
-- [ ] Je peux passer au mini-cours `05_Python_essentiel.md` sans appréhension.
+- [x] Je peux passer au mini-cours `05_Python_essentiel.md` sans appréhension.

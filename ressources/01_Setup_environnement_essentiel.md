@@ -145,8 +145,8 @@ plt.show()
 
 ## Vérification (checklist apprenant)
 
-- [ ] `python --version` affiche `Python 3.11.x` ou plus récent (dans l'env activé).
-- [ ] J'ai pu lancer Jupyter Notebook et exécuter un graphique matplotlib.
-- [ ] Mon `.gitignore` exclut bien `.venv`, `__pycache__`, `.ipynb_checkpoints`.
-- [ ] Mon repo `dev-id-onboarding-<prenom>` existe sur GitHub avec au moins 1 commit.
-- [ ] Je peux expliquer à un·e collègue **pourquoi un environnement virtuel** en 2 min.
+- [x] `python --version` affiche `Python 3.11.x` ou plus récent (dans l'env activé).
+- [x] J'ai pu lancer Jupyter Notebook et exécuter un graphique matplotlib.
+- [x] Mon `.gitignore` exclut bien `.venv`, `__pycache__`, `.ipynb_checkpoints`.
+- [x] Mon repo `dev-id-onboarding-<prenom>` existe sur GitHub avec au moins 1 commit.
+- [x] Je peux expliquer à un·e collègue **pourquoi un environnement virtuel** en 2 min.

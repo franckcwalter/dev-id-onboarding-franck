@@ -4,7 +4,7 @@
 
 ## Poste de travail
 
-- [ ] J'ai Python 3.11 ou plus récent installé.
+- [x] J'ai Python 3.11 ou plus récent installé.
 - [ ] J'ai un environnement virtuel activé pour ce projet (un seul gestionnaire, cf. mini-cours setup).
 - [ ] J'ai installé les libs : `pandas`, `numpy`, `matplotlib`, `jupyter`.
 - [ ] Je sais lancer `jupyter notebook` depuis mon terminal et ouvrir mon notebook.
