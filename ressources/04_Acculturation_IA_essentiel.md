@@ -169,11 +169,11 @@ Aucune de ces 5 réponses n'est un LLM seul. Et c'est normal.
 
 ## Vérification (checklist apprenant)
 
-- [ ] Je sais distinguer apprentissage supervisé / non supervisé et donner un
+- [x] Je sais distinguer apprentissage supervisé / non supervisé et donner un
       exemple métier de chacun.
-- [ ] Je sais expliquer en 2 minutes ce qu'est un foundation model.
-- [ ] Je peux citer **2 cas où un LLM est pertinent** et **2 cas où c'est une
+- [x] Je sais expliquer en 2 minutes ce qu'est un foundation model.
+- [x] Je peux citer **2 cas où un LLM est pertinent** et **2 cas où c'est une
       mauvaise idée**.
-- [ ] J'ai rédigé mes 3 réponses dans le notebook livrable.
-- [ ] Je connais au moins 3 critères pour choisir une approche IA (coût,
+- [x] J'ai rédigé mes 3 réponses dans le notebook livrable.
+- [x] Je connais au moins 3 critères pour choisir une approche IA (coût,
       explicabilité, sobriété, etc.).

@@ -115,10 +115,10 @@ print(mat[::2, :])        # lignes paires
 
 ## Vérification (checklist apprenant)
 
-- [ ] J'ai fait tourner l'exemple minimal sans erreur.
-- [ ] Je sais expliquer en 2 min ce qu'est la **vectorisation** et pourquoi c'est plus
+- [x] J'ai fait tourner l'exemple minimal sans erreur.
+- [x] Je sais expliquer en 2 min ce qu'est la **vectorisation** et pourquoi c'est plus
       rapide qu'une boucle Python.
-- [ ] J'ai fait les 4 questions de l'exercice guidé (sans regarder les solutions
+- [x] J'ai fait les 4 questions de l'exercice guidé (sans regarder les solutions
       d'abord).
-- [ ] Je sais ce que vaut `np.nan == np.nan` et pourquoi (réponse : `False` — NaN
+- [x] Je sais ce que vaut `np.nan == np.nan` et pourquoi (réponse : `False` — NaN
       n'est jamais égal à NaN, il faut utiliser `np.isnan`).

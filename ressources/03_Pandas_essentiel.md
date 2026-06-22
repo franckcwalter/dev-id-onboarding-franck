@@ -136,8 +136,8 @@ df.groupby("species")["body_mass_g"].mean().plot.bar(title="Masse moyenne par es
 
 ## Vérification (checklist apprenant)
 
-- [ ] J'ai chargé le dataset Penguins et reproduit les 6 questions de l'exercice.
+- [x] J'ai chargé le dataset Penguins et reproduit les 6 questions de l'exercice.
 - [ ] Je sais expliquer la différence entre **`.loc`** et **`.iloc`**.
-- [ ] J'ai identifié au moins 1 colonne avec des valeurs manquantes dans Penguins.
-- [ ] Je sais ce que fait un `groupby` (agrégation : un résultat par groupe).
-- [ ] Je peux produire un graphique simple à partir d'un DataFrame en une ligne.
+- [x] J'ai identifié au moins 1 colonne avec des valeurs manquantes dans Penguins.
+- [x] Je sais ce que fait un `groupby` (agrégation : un résultat par groupe).
+- [x] Je peux produire un graphique simple à partir d'un DataFrame en une ligne.
