@@ -554,11 +554,11 @@ if __name__ == "__main__":
 
 ## Vérification (checklist apprenant)
 
-- [ ] J'ai lancé `demo_python.py` sans erreur, et la sortie correspond.
-- [ ] J'ai refait l'exercice guidé en moins de 20 minutes.
-- [ ] Je sais expliquer en 1 phrase pourquoi FastAPI a besoin des type hints.
-- [ ] Je sais expliquer en 1 phrase ce qu'un décorateur fait.
-- [ ] Je sais pourquoi `except:` tout court est dangereux.
-- [ ] Je n'utilise plus `os.path` ni la concaténation de strings pour les
+- [x] J'ai lancé `demo_python.py` sans erreur, et la sortie correspond.
+- [x] J'ai refait l'exercice guidé en moins de 20 minutes.
+- [x] Je sais expliquer en 1 phrase pourquoi FastAPI a besoin des type hints.
+- [x] Je sais expliquer en 1 phrase ce qu'un décorateur fait.
+- [x] Je sais pourquoi `except:` tout court est dangereux.
+- [x] Je n'utilise plus `os.path` ni la concaténation de strings pour les
       chemins — `pathlib.Path` partout.
-- [ ] Je connais les 6 pièges listés et leurs symptômes.
+- [x] Je connais les 6 pièges listés et leurs symptômes.
